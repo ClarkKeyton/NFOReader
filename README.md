@@ -1,2 +1,2 @@
 # NFOReader
-NFOReader by ClarkKeyton(leaked source code from Hewlett-Packerd 2011 year)
+NFOReader by ClarkKeyton(leaked source code from Hewlett-Packard 2011 year)
